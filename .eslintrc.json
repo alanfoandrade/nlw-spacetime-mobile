@@ -39,6 +39,7 @@
     ],
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
+    "camelcase": "off",
     "jsx-a11y/alt-text": [
       "warn",
       {
